@@ -7,14 +7,14 @@
             "image": "fas fa-calculator"
         },
         {
-            "subject": "English Language",
+            "subject": "English",
             "location": "Lagos",
             "price": 4500,
             "spaces": 5,
             "image": "fas fa-book"
         },
         {
-            "subject": "Computer Science",
+            "subject": "ICT",
             "location": "Texas",
             "price": 8500,
             "spaces": 5,
@@ -37,7 +37,7 @@
         {
             "subject": "Economics",
             "location": "Manchester",
-            "price": 3500,
+            "price": 8500,
             "spaces": 5,
             "image": "fas fa-file-invoice"
         },
@@ -63,7 +63,7 @@
             "image": "fas fa-globe-europe"
         },
         {
-            "subject": "General Studies",
+            "subject": "Chemistry",
             "location": "Florida",
             "price": 5000,
             "spaces": 6,
