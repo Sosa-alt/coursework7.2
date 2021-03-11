@@ -34,7 +34,7 @@ export default {
     font-family: Roboto, sans-serif;
   }
   #title {
-    font-family: "sans-serif";
+    font-family: "Times New Roman";
     color: Blue;
     text-decoration: none;
   }
