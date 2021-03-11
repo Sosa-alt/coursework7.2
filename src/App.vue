@@ -35,7 +35,7 @@ export default {
   }
   #title {
     font-family: "Times New Roman";
-    color: blue;
+    color: black;
     text-decoration: none;
   }
   #shoppingCart {
