@@ -31,7 +31,7 @@
             "subject": "Biology",
             "location": "Seychelles",
             "price": 800,
-            "spaces": 8,
+            "spaces": 6,
             "image": "fas fa-splotch"
         },
         {
