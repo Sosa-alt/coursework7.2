@@ -23,7 +23,7 @@
         {
             "subject": "Physics",
             "location": "London",
-            "price": 750,
+            "price": 25000,
             "spaces": 5,
             "image": "fas fa-chalkboard-teacher"
         },
