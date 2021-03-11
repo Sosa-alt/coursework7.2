@@ -16,7 +16,7 @@
         {
             "subject": "Computer Science",
             "location": "Texas",
-            "price": 950,
+            "price": 8500,
             "spaces": 5,
             "image": "fab fa-internet-explorer"
         },
