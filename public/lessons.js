@@ -1,23 +1,23 @@
 {
     "data": [{
             "subject": "Mathematics",
-            "location": "London",
+            "location": "Cairo",
             "price": 5000,
             "spaces": 5,
             "image": "fas fa-calculator"
         },
         {
             "subject": "English Language",
-            "location": "Texas",
+            "location": "Lagos",
             "price": 4500,
-            "spaces": 7,
+            "spaces": 5,
             "image": "fas fa-book"
         },
         {
             "subject": "Computer Science",
             "location": "Texas",
             "price": 950,
-            "spaces": 6,
+            "spaces": 5,
             "image": "fab fa-internet-explorer"
         },
         {
@@ -29,7 +29,7 @@
         },
         {
             "subject": "Biology",
-            "location": "New York",
+            "location": "Seychelles",
             "price": 800,
             "spaces": 8,
             "image": "fas fa-splotch"
@@ -43,9 +43,9 @@
         },
         {
             "subject": "Accounting",
-            "location": "Maryland",
+            "location": "Abuja",
             "price": 1000,
-            "spaces": 9,
+            "spaces": 5,
             "image": "fas fa-money-check"
         },
         {

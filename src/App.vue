@@ -34,7 +34,7 @@ export default {
     font-family: Roboto, sans-serif;
   }
   #title {
-    font-family: "Curlz MT";
+    font-family: "Times New Roman";
     color: black;
     text-decoration: none;
   }
