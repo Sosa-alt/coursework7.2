@@ -30,7 +30,7 @@
         {
             "subject": "Biology",
             "location": "Seychelles",
-            "price": 800,
+            "price": 8000,
             "spaces": 6,
             "image": "fas fa-splotch"
         },
@@ -44,7 +44,7 @@
         {
             "subject": "Accounting",
             "location": "Abuja",
-            "price": 1000,
+            "price": 8000,
             "spaces": 5,
             "image": "fas fa-money-check"
         },
@@ -58,14 +58,14 @@
         {
             "subject": "Geography",
             "location": "Maryland",
-            "price": 1500,
+            "price": 5000,
             "spaces": 6,
             "image": "fas fa-globe-europe"
         },
         {
             "subject": "General Studies",
             "location": "Florida",
-            "price": 2000,
+            "price": 5000,
             "spaces": 6,
             "image": "fas fa-layer-group"
         }
