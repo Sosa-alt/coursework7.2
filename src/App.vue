@@ -34,8 +34,8 @@ export default {
     font-family: Roboto, sans-serif;
   }
   #title {
-    font-family: "Times New Roman";
-    color: red;
+    font-family: "sans-serif";
+    color: Blue;
     text-decoration: none;
   }
   #shoppingCart {
